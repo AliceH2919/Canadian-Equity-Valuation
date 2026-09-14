@@ -100,11 +100,11 @@ outputs/
 ├── valuation_summary.csv
 ├── portfolio_allocation.csv
 ├── portfolio_backtest.csv
-├── valuation_comparison.png
 ├── peer_multiples.png
 ├── dcf_sensitivity.png
 ├── portfolio_performance.png
-└── drawdown.png
+├── drawdown.png
+└── research_summary.md
 ```
 
 ## Run
